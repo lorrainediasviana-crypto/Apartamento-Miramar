@@ -9,7 +9,7 @@ Este pacote organiza a conversa; não cria um Projeto na interface do ChatGPT e 
 - 02_amiga_e_tres_filhos: alternativa para mãe e três meninos.
 - INSTRUCOES_DO_PROJETO.md: texto para as instruções do Projeto no ChatGPT.
 
-A planta técnica original enviada pela usuária é a referência principal. Ela permanece nos anexos da conversa; o arquivo original não foi localizado neste pacote. Ao criar o Projeto, adicionar também a planta original como arquivo de referência. Não substituir a planta técnica por uma imagem gerada.
+A planta técnica original enviada pela usuária é a referência principal e está salva em [00_referencia_principal](00_referencia_principal/WhatsApp%20Image%202026-11-05%20at%2013.54.27.jpeg). Ao criar o Projeto do ChatGPT, adicionar também essa imagem como arquivo de referência. Não substituir a planta técnica por uma imagem gerada.
 
 As imagens copiadas são referências visuais em revisão, não desenhos medidos nem aprovação técnica. Uma imagem posterior não se torna automaticamente aprovada. As preferências expressas e os pontos pendentes estão registrados nos documentos de cada proposta.
 

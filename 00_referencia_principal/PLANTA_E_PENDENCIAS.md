@@ -1,6 +1,6 @@
 # Referência principal — planta técnica original
 
-A imagem técnica original da conversa, com cotas laranjas e códigos de esquadrias, prevalece sobre todos os renders. A orientação norte/sul abaixo é apenas uma convenção de leitura da imagem.
+A [imagem técnica original](WhatsApp%20Image%202026-11-05%20at%2013.54.27.jpeg), com cotas laranjas e códigos de esquadrias, foi adicionada pela usuária e conferida visualmente com a referência da conversa. Ela prevalece sobre todos os renders. O arquivo é um recorte em JPEG; cotas ilegíveis e detalhes ausentes continuam pendentes do projeto completo. A orientação norte/sul abaixo é apenas uma convenção de leitura da imagem.
 
 ## Ambientes indicados
 
